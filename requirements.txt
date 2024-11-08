@@ -1,0 +1,2 @@
+pip pandas
+pip openpyxl
